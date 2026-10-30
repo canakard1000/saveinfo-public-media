@@ -1,2 +1,7 @@
-# saveinfo-public-media
-Public original card-news images for Jinwoo Saveinfo; no credentials or private data.
+# 진우의 알뜰생활 정보 — 공개 카드뉴스 이미지
+
+Instagram API가 가져갈 수 있는 직접 제작 공개 설명 이미지입니다. 운영 코드, 계정 인증키, 비공개 자료를 이 저장소에 저장하지 않습니다.
+
+장보기 카드의 가격은 계산을 설명하기 위한 가정이며 실제 판매가가 아닙니다.
+
+원문: https://blog.naver.com/greenligh1000/224400312018
